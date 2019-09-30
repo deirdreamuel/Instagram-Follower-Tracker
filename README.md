@@ -1,2 +1,13 @@
 # IG_Reciprocate
 An application that extracts followers and following list to figure out the one's that are not following back so we can reciprocate.
+
+Installation guide:
+Requirements: Chrome, Selenium, and Chrome Webdriver.
+
+# Selenium: install selenium
+
+# Chrome Webdriver: brew cask install chromedriver
+
+
+
+
