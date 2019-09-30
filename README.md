@@ -4,9 +4,9 @@ An application that extracts followers and following list to figure out the one'
 Installation guide:
 Requirements: Chrome, Selenium, and Chrome Webdriver.
 
-# Selenium: install selenium
+Selenium: install selenium
 
-# Chrome Webdriver: brew cask install chromedriver
+Chrome Webdriver: brew cask install chromedriver
 
 
 
