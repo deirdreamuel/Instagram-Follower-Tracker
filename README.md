@@ -24,11 +24,11 @@ An application that extracts followers and following list to figure out the one'
   ![Check Chrome Version Step 1](/Images/Chrome3.png)
   
 *if you have Chrome Version 84, skip steps 3 & 4 (chromedriver is already included)*
-3. Download chromedriver from https://chromedriver.chromium.org/downloads 
+3. Download chromedriver [here](https://chromedriver.chromium.org/downloads) 
 
 4. Replace chromedriver in /assets/ folder
 
-5. Download and Install Python 3 from https://www.python.org/downloads/
+5. Download and Install Python 3 [here](https://www.python.org/downloads/)
 
 *feel free to use conda or any Python package manager of your choice*
 6. Install Selenium using pip:
@@ -38,10 +38,10 @@ An application that extracts followers and following list to figure out the one'
 `pip install pillow`
 
 8. TkInter should come installed with python
-If you get a TkInter Error, install Tkinter using this tutorial https://tkdocs.com/tutorial/install.html
+If you get a TkInter Error, install Tkinter using this [tutorial](https://tkdocs.com/tutorial/install.html)
 
 
-### Final Step: Run IG_Reciprocate using,
+### Final Step: Run IG_Reciprocate
 `python3 reciprocate.py`
 
 
