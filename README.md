@@ -1,6 +1,6 @@
 # IG_Reciprocate
-### know who isn't following you back
-### then Reciprocate
+### Know who isn't following you back
+### Then Reciprocate
 ![IG_Reciprocate](/Images/app1.png)
 
 ### Tutorial:
@@ -17,10 +17,10 @@
 1. Download Chrome if you haven't already
 2. Check your Chrome Version
     1. Go to Settings
-    ![Check Chrome Version Step 1](/Images/Chrome1.png)
+    ![Check Chrome Version Step 1](/Images/chrome1.png)
 
     2. Click on About Chrome tab and get your Chrome Version
-    ![Check Chrome Version Step 1](/Images/Chrome3.png)
+    ![Check Chrome Version Step 1](/Images/chrome3.png)
   
 *if you have Chrome Version 84, skip steps 3 & 4 (chromedriver is already included)*
 
