@@ -1,20 +1,20 @@
 # IG_Reciprocate
-### Know who isn't following you back
-### Then Reciprocate
+### Know who isn't following you back then Reciprocate
+
 ![IG_Reciprocate](/Images/app1.png)
 
 ### Tutorial:
 1. Login in using your account and Click *RECIPROCATE* to process
 ![IG_Reciprocate 2](/Images/app2.png)
 
-2. View Results
+2. View users who are not following you back and users you are not following back
 ![IG_Reciprocate 3](/Images/app3.png)
 
 ![IG_Reciprocate 3](/Images/app4.png)
 
 ### Installation Guide:
 
-1. Download Chrome if you haven't already
+1. [Download Chrome](https://www.google.com/chrome/) if you haven't already
 2. Check your Chrome Version
     1. Go to Settings
     ![Check Chrome Version Step 1](/Images/chrome1.png)
