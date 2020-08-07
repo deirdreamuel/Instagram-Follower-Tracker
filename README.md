@@ -1,5 +1,6 @@
 # IG_Reciprocate
-An application that extracts followers and following list to figure out the one's that are not following back so we can reciprocate.
+### know who isn't following you back
+### then Reciprocate
 ![IG_Reciprocate](/Images/app1.png)
 
 ### Tutorial:
@@ -18,10 +19,11 @@ An application that extracts followers and following list to figure out the one'
     1. Go to Settings
     ![Check Chrome Version Step 1](/Images/Chrome1.png)
 
-    2 Click on About Chrome tab and get your Chrome Version
+    2. Click on About Chrome tab and get your Chrome Version
     ![Check Chrome Version Step 1](/Images/Chrome3.png)
   
 *if you have Chrome Version 84, skip steps 3 & 4 (chromedriver is already included)*
+
 3. Download chromedriver [here](https://chromedriver.chromium.org/downloads) 
 
 4. Replace chromedriver in /assets/ folder
